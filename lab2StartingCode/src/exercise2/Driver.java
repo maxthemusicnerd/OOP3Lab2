@@ -3,6 +3,8 @@ package exercise2;
 import java.util.Random;
 import java.util.Scanner;
 
+//BY MAXIM OLESHKO, MAXIM LOPEZ, AISHTE PITPIT
+
 public class Driver
 {
 

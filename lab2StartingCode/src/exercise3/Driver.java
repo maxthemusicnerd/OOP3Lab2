@@ -2,6 +2,8 @@ package exercise3;
 
 import java.util.Random;
 
+//BY MAXIM OLESHKO, MAXIM LOPEZ, AISHTE PITPIT
+
 public class Driver
 {
 
